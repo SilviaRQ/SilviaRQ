@@ -46,7 +46,7 @@
 
 
 ## Lenguajes:
-<img height="40" src="https://skillicons.dev/icons?i=python,c,cpp,html,css"/>
+<img height="40" src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js"/>
 
 ## Herramientas:
 <img height="40" src="https://skillicons.dev/icons?i=octave,matlab,arduino,vscode"/>
