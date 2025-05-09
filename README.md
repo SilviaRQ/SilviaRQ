@@ -1,10 +1,11 @@
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Silvia</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> soy Silvia</h1>
 
 
-- 👋 Hola, I’m @SilviaRQ
+- 👋 Hola, soy @SilviaRQ
+- 🎓 Estudiante avanzada de Ingeniería Electrónica en la UBA
 - 🔧 Me gusta crear proyectos pequeños de automatización, domótica y scripts útiles 
 - 👀 Estoy interesada en domótica, automatización y control, modelado 3D y desarrollo de páginas web
-- 🎓 I’m currently studying Electronic Engineer.
+- 🚀 Actualmente realizando mi trabajo final de carrera
 
 
 ## 💻 Tecnologías y lenguajes
