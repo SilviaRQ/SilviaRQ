@@ -15,15 +15,19 @@
 
 ## 📂 Proyectos destacados
 
-- 🏠 Automatización de luces con ESP32 y control por Telegram  
-- 🔐 Sistema de acceso con reconocimiento de patentes  
-- 📊 Script para registrar el uso diario de la PC y graficarlo
+- 🏠 Aspiradora automática en 3 modos 
+- 🔐 Sistema de control de acceso  
+- 📊 Script para registrar ruidos y notificar
+
+# 🚧 Proyectos en desarrollo
+
+- 🎵 **Muestreo de ruido**: sistema con ESP8266 para detectar ruidos fuertes y notificar cuando cesa  
+- 🌧️ **Techo automatizado por lluvia**: detección de lluvia y cierre automático del techo corredizo usando sensores y actuadores
 
 ## 📬 Contacto
 
-- ✉️ [tu.email@ejemplo.com]  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- 🌐 [Tu sitio personal o portfolio, si tenés]
+- ✉️ [sil.ramosq@gmail.com]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/silvia-ramos)  
   
 <!---
 - 💞️ I’m looking to collaborate on ...
