@@ -31,7 +31,8 @@
 ## 📬 Contacto
 
 - ✉️ [Gmail](mailto:sil.ramosq@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/silvia-ramos)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/silvia-ramos)
+  <img height="40" src="https://skillicons.dev/icons?i=gmail,linkedin"/> 
   
 <!---
 - 💞️ I’m looking to collaborate on ...
@@ -43,7 +44,7 @@
 🌱 Siempre aprendiendo y con ganas de meter mano en lo que sea interesante.
 ---> 
  
-##Sistemas Operativos:
+## Sistemas Operativos:
 <img height="40" src="https://skillicons.dev/icons?i=windows,linux"/>
 
 
