@@ -37,13 +37,15 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 🚀 Siempre explorando nuevas herramientas y tecnologías
----> 
- 
-
 
 <h2>Skills</h2>
 
 🌱 Siempre aprendiendo y con ganas de meter mano en lo que sea interesante.
+---> 
+ 
+
+
+
 
 <!---
 SilviaRQ/SilviaRQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
