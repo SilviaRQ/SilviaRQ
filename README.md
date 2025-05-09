@@ -1,6 +1,6 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> soy Silvia</h1>
 
-
+## ☕ Sobre mí
 - 👋 Hola, soy @SilviaRQ
 - 🎓 Estudiante avanzada de Ingeniería Electrónica en la UBA
 - 🔧 Me gusta crear proyectos pequeños de automatización, domótica y scripts útiles 
@@ -27,6 +27,11 @@
 - 🎵 **Muestreo y registro de ruido**: sistema con ESP8266 para detectar ruidos fuertes y notificar cuando cesa  
 - 🌧️ **Techo automatizado por lluvia**: detección de lluvia y cierre automático del techo corredizo usando sensores y actuadores
 
+## 🌍 Idiomas
+
+- Español (nativo)
+- Inglés (intermedio / técnico)
+- Alemán (básico)
 
 ## 📬 Contacto
   <a href=mailto:sil.ramosq@gmail.com><img height="40" src="https://skillicons.dev/icons?i=gmail"/></a>
