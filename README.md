@@ -49,7 +49,7 @@
 <img height="40" src="https://skillicons.dev/icons?i=python,c,cpp,html,css"/>
 
 ## Herramientas:
-<img height="40" src="https://skillicons.dev/icons?i=octave,matlab,arduino"/>
+<img height="40" src="https://skillicons.dev/icons?i=octave,matlab,arduino,vscode"/>
 
 ## Sistemas Operativos:
 <img height="40" src="https://skillicons.dev/icons?i=windows,linux"/>
