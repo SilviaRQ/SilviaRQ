@@ -28,7 +28,7 @@
 
 ## 🌍 Idiomas
 
-- Español (nativo)
+- Español (nativo) 
 - Inglés (intermedio / técnico)
 - Alemán (básico)
 
