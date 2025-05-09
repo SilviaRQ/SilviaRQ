@@ -20,12 +20,11 @@
 
 - 🏠 Aspiradora automática en 3 modos 
 - 🔐 Sistema de control de acceso  
-- 📊 Script para registrar ruidos y notificar
 
 
 ## 🚧 Proyectos en desarrollo
 
-- 🎵 **Muestreo de ruido**: sistema con ESP8266 para detectar ruidos fuertes y notificar cuando cesa  
+- 🎵 **Muestreo y registro de ruido**: sistema con ESP8266 para detectar ruidos fuertes y notificar cuando cesa  
 - 🌧️ **Techo automatizado por lluvia**: detección de lluvia y cierre automático del techo corredizo usando sensores y actuadores
 
 
@@ -41,7 +40,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/silvia-ramos)
 
 <h2>Skills</h2>
-
+- 📊 Script para registrar ruidos y notificar
 🌱 Siempre aprendiendo y con ganas de meter mano en lo que sea interesante.
 ---> 
 
