@@ -10,9 +10,9 @@
 
 ## 💻 Tecnologías y lenguajes
 
-- ⚙️ **Lenguajes**: Python, C/C++, JavaScript  
-- 💡 **Otros**: Arduino, Node-RED, ESP32 
-- 🛠️ **Herramientas**: Git, VS Code, PlatformIO
+- ⚙️ **Lenguajes**: Python, C/C++, Assembler, HTML, CSS, JavaScript  
+- 💡 **Otros**: Arduino, ESP8266
+- 🛠️ **Herramientas**: Git, VS Code, PlatformIO, Matlab, Latex
 
 
 ## 📂 Proyectos destacados
