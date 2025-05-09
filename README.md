@@ -43,6 +43,10 @@
 
 🌱 Siempre aprendiendo y con ganas de meter mano en lo que sea interesante.
 ---> 
+
+
+## Lenguajes:
+<img height="40" src="https://skillicons.dev/icons?i=python,C,html,css"/>
  
 ## Sistemas Operativos:
 <img height="40" src="https://skillicons.dev/icons?i=windows,linux"/>
