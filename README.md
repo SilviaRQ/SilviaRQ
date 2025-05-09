@@ -32,7 +32,8 @@
 
 - ✉️ [Gmail](mailto:sil.ramosq@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/silvia-ramos)
-  <img height="40" src="https://skillicons.dev/icons?i=gmail,linkedin"/> 
+  <a href=mailto:sil.ramosq@gmail.com><img height="40" src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href=https://www.linkedin.com/in/silvia-ramos><img height="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
   
 <!---
 - 💞️ I’m looking to collaborate on ...
