@@ -10,9 +10,10 @@
 
 ## 💻 Tecnologías y lenguajes
 
-- ⚙️ **Lenguajes**: Python, C/C++, Assembler, HTML, CSS, JavaScript  
+- ⚙️ **Lenguajes**: Python, C/C++, Assembler, HTML, CSS, JavaScript, SQL (mysql) 
 - 💡 **Otros**: Arduino, ESP8266
 - 🛠️ **Herramientas**: Git, VS Code, PlatformIO, Matlab, Latex
+- 💻 **Sistemas operativos**: Windows, Linux
 
 
 ## 📂 Proyectos destacados
@@ -46,7 +47,7 @@
 
 
 ## Lenguajes:
-<img height="40" src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js"/>
+<img height="40" src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,mysql"/>
 
 ## Herramientas:
 <img height="40" src="https://skillicons.dev/icons?i=octave,matlab,arduino,vscode,git,latex"/>
