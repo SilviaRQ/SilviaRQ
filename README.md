@@ -43,7 +43,8 @@
 🌱 Siempre aprendiendo y con ganas de meter mano en lo que sea interesante.
 ---> 
  
-<img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/>
+##Sistemas Operativos:
+<img height="40" src="https://skillicons.dev/icons?i=windows,linux"/>
 
 
 
