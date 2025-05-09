@@ -26,7 +26,7 @@
 
 ## 📬 Contacto
 
-- ✉️ [Gmail](sil.ramosq@gmail.com)  
+- ✉️ [Gmail](mailto:sil.ramosq@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/silvia-ramos)  
   
 <!---
