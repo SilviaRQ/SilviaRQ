@@ -19,14 +19,14 @@
 - 🔐 Sistema de control de acceso  
 - 📊 Script para registrar ruidos y notificar
 
-# 🚧 Proyectos en desarrollo
+## 🚧 Proyectos en desarrollo
 
 - 🎵 **Muestreo de ruido**: sistema con ESP8266 para detectar ruidos fuertes y notificar cuando cesa  
 - 🌧️ **Techo automatizado por lluvia**: detección de lluvia y cierre automático del techo corredizo usando sensores y actuadores
 
 ## 📬 Contacto
 
-- ✉️ [sil.ramosq@gmail.com]  
+- ✉️ [Gmail](sil.ramosq@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/silvia-ramos)  
   
 <!---
