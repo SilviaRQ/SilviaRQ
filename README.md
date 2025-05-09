@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> soy Silvia</h1>
+<h1 align="center">Hola 👋, soy Silvia</h1>
 
 ## ☕ Sobre mí
 - 🎓 Estudiante avanzada de Ingeniería Electrónica en la UBA
@@ -42,6 +42,8 @@
 - 🚀 Siempre explorando nuevas herramientas y tecnologías
 - ✉️ [Gmail](mailto:sil.ramosq@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/silvia-ramos)
+
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 👋 soy Silvia</h1>
 
 <h2>Skills</h2>
 - 📊 Script para registrar ruidos y notificar
