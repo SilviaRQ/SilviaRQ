@@ -60,8 +60,9 @@
 ## Sistemas Operativos:
 <img height="40" src="https://skillicons.dev/icons?i=windows,linux"/>
 
+
 ### Todavía aprendiendo 😅:
-<img height="40" src="https://skillicons.dev/icons?i=vue,django"/>
+<img height="40" src="https://skillicons.dev/icons?i=vue,django,react"/>
 
 <!---
 SilviaRQ/SilviaRQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
