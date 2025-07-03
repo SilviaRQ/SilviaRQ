@@ -62,7 +62,7 @@
 
 
 ### Todavía aprendiendo 😅:
-<img height="40" src="https://skillicons.dev/icons?i=vue,django,react"/>
+<img height="40" src="https://skillicons.dev/icons?i=vue,django,react,java"/>
 
 <!---
 SilviaRQ/SilviaRQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
