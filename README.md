@@ -60,7 +60,7 @@
 ## Sistemas Operativos:
 <img height="40" src="https://skillicons.dev/icons?i=windows,linux"/>
 
-## Todavía aprendiendo:
+### Todavía aprendiendo 😅:
 <img height="40" src="https://skillicons.dev/icons?i=vue,django"/>
 
 <!---
