@@ -67,7 +67,9 @@
 ### Proximamente 👀:
 <img height="40" src="https://skillicons.dev/icons?i=net"/>
 
+<hr>
 
+Si llegaste hasta acá, muchas gracias por visitar! 😁
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=SilviaRQ.SilviaRQ)
 
 
