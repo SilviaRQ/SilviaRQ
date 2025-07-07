@@ -17,14 +17,15 @@
 
 ## 📂 Proyectos destacados
 
+- 📄 Mi CV como página web (<a href="https://silviarq.github.io/CV-website/" target="_blank">Link</a>)
 - 🏠 Aspiradora automática en 3 modos 
-- 🔐 Sistema de control de acceso  
 
 
 ## 🚧 Proyectos en desarrollo
 
 - 🎵 **Muestreo y registro de ruido**: sistema con ESP8266 para detectar ruidos fuertes y notificar cuando cesa  
 - 🌧️ **Techo automatizado por lluvia**: detección de lluvia y cierre automático del techo corredizo usando sensores y actuadores
+- 🔐 **Sistema de control de acceso**
 
 ## 🌍 Idiomas
 
