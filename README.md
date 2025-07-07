@@ -68,10 +68,10 @@
 <img height="40" src="https://skillicons.dev/icons?i=net"/>
 
 
-...
+
 
 ---
 
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=SilviaRQ.SilviaRQ)  
-Gracias por pasar por mi perfil 🤍 ¡Siempre estoy creando algo nuevo!
+Gracias por pasar por mi perfil 😁
 
