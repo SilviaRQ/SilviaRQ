@@ -66,6 +66,11 @@
 
 ### Proximamente 👀:
 <img height="40" src="https://skillicons.dev/icons?i=net"/>
+
+
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=SilviaRQ.SilviaRQ)
+
+
 <!---
 SilviaRQ/SilviaRQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
