@@ -23,7 +23,8 @@
 
 ## 🚧 Proyectos en desarrollo
 
-- 🎵 **Muestreo y registro de ruido**: sistema con ESP8266 para detectar ruidos fuertes y notificar cuando cesa  
+- 🎵 **Muestreo y registro de ruido**: sistema con ESP32 para detectar ruidos fuertes y notificar cuando cesa
+- 🔥 **Detector de monóxido de carbono**
 - 🌧️ **Techo automatizado por lluvia**: detección de lluvia y cierre automático del techo corredizo usando sensores y actuadores
 - 🔐 **Sistema de control de acceso**
 
